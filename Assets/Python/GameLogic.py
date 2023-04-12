@@ -1,6 +1,7 @@
 # Импортируем модуль random для работы с случайными числами
 import random
 from unittest import result
+import math
 
 # Определяем класс Unit
 class Unit:
